@@ -9,4 +9,5 @@
 * [Articles](Resources/Articles)
 * [Games](Resources/Games)
 * [Books](Resources/Books)
+* [Podcasts](Resources/Podcasts)
 * [Future](Resources/Future)
