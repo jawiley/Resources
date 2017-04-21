@@ -10,4 +10,5 @@
 * [Games](Resources/Games)
 * [Books](Resources/Books)
 * [Podcasts](Resources/Podcasts)
+* [YouTube Tutorials](Resources/YouTube)
 * [Future](Resources/Future)
